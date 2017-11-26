@@ -1,5 +1,5 @@
 ---
-title: "Assignment 2 - Titanic Dataset"
+title: "Assignment 2 - Titanic Dataset - Working Copy"
 output:
   html_document: default
   pdf_document: default
